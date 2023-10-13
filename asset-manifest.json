@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4c5041e7.chunk.css",
+    "main.js": "./static/js/main.c79a7159.chunk.js",
+    "main.js.map": "./static/js/main.c79a7159.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/css/2.fa88ec36.chunk.css": "./static/css/2.fa88ec36.chunk.css",
+    "static/js/2.270716da.chunk.js": "./static/js/2.270716da.chunk.js",
+    "static/js/2.270716da.chunk.js.map": "./static/js/2.270716da.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.fa88ec36.chunk.css.map": "./static/css/2.fa88ec36.chunk.css.map",
+    "static/css/main.4c5041e7.chunk.css.map": "./static/css/main.4c5041e7.chunk.css.map",
+    "static/js/2.270716da.chunk.js.LICENSE.txt": "./static/js/2.270716da.chunk.js.LICENSE.txt",
+    "static/media/Accessories.c89ddada.png": "./static/media/Accessories.c89ddada.png",
+    "static/media/Menu.scss": "./static/media/Home.d4c29e4f.svg",
+    "static/media/CartContent.scss": "./static/media/Plus.60b4bc00.svg",
+    "static/media/ProductParams.scss": "./static/media/Favourites.341c6a64.svg",
+    "static/media/Navigation.scss": "./static/media/burger-menu.3d6d4bae.svg",
+    "static/media/Phones.9d91280e.png": "./static/media/Phones.9d91280e.png",
+    "static/media/Search.scss": "./static/media/Search.1e77bbf1.svg",
+    "static/media/Tablets.ab919a9b.png": "./static/media/Tablets.ab919a9b.png",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/css/2.fa88ec36.chunk.css",
+    "static/js/2.270716da.chunk.js",
+    "static/css/main.4c5041e7.chunk.css",
+    "static/js/main.c79a7159.chunk.js"
+  ]
+}
